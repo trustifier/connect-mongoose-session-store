@@ -14,23 +14,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebapi/connect-mongoose-session-store.git"
+    "url": "https://github.com/trustifier/connect-mongoose-session-store.git"
   },
   "author": {
-    "name": "Sajib Sarkar",
-    "email": "thebapi@gmail.com"
+    "name": "Ahmed Masud",
+    "email": "ahmed.masud@trustifier.com"
   },
   "dependencies": {
-    "mongoose": "3.8",
-    "async": "0.x"
+    "mongoose": "^3.8",
+    "async": "^0.0"
   },
   "main": "index",
   "engines": "node >= 0.4.x",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/thebapi/connect-mongoose-session-store/issues"
+    "url": "https://github.com/trustifier/connect-mongoose-session-store/issues"
   },
-  "homepage": "https://github.com/thebapi/connect-mongoose-session-store",
-  "_id": "connect-mongoose-session-store@0.0.1",
-  "_from": "connect-mongoose-session-store@latest"
+  "homepage": "https://github.com/trustifier/connect-mongoose-session-store"
 }
